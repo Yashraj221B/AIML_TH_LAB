@@ -7,11 +7,11 @@ This notebook uses Backblaze Q1 2016 daily hard-drive telemetry for two supervis
 
 ## Notebook
 
-- `Activity_1_Machine_Learning_Classification_and_Regression.ipynb`
+- `Model_evaluation.ipynb`
 
 ## Data
 
-Place the original Q1 2016 daily CSV files in `data_Q1_2016/`. The files must provide `date`, `serial_number`, `failure`, `model`, and `capacity_bytes`; SMART fields are used when available.
+Place the original Q1 2019 daily CSV files in `data_Q1_2019/`. The files must provide `date`, `serial_number`, `failure`, `model`, and `capacity_bytes`; SMART fields are used when available.
 
 The data is not included in this repository. Download it from the [Backblaze Hard Drive Test Data](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data) page.
 
