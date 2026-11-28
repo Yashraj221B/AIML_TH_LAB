@@ -1,0 +1,143 @@
+model,column,category,initial_column_count,missing_values_before_cleaning,column_disposition,reason,final_model_feature
+HGST HMS5C4040BLE640,date,metadata,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,serial_number,metadata,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,model,metadata,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,capacity_bytes,metadata,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,failure,label,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_1_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_2_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_3_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_4_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_5_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_7_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_8_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_9_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_10_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_12_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_192_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_193_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_194_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_196_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_197_raw,SMART,21,0,retained,source cleaning retained this column,False
+HGST HMS5C4040BLE640,smart_199_raw,SMART,21,0,retained,source cleaning retained this column,False
+ST12000NM0007,date,metadata,24,0,retained,source cleaning retained this column,False
+ST12000NM0007,serial_number,metadata,24,0,retained,source cleaning retained this column,False
+ST12000NM0007,model,metadata,24,0,retained,source cleaning retained this column,False
+ST12000NM0007,capacity_bytes,metadata,24,0,retained,source cleaning retained this column,False
+ST12000NM0007,failure,label,24,0,retained,source cleaning retained this column,False
+ST12000NM0007,smart_1_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_4_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_5_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_7_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_9_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_12_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_187_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_188_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_190_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_192_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_193_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_194_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_195_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_197_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_198_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_199_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_240_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_241_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST12000NM0007,smart_242_raw,SMART,24,0,retained,source cleaning retained this column,True
+ST4000DM000,date,metadata,26,0,retained,source cleaning retained this column,False
+ST4000DM000,serial_number,metadata,26,0,retained,source cleaning retained this column,False
+ST4000DM000,model,metadata,26,0,retained,source cleaning retained this column,False
+ST4000DM000,capacity_bytes,metadata,26,0,retained,source cleaning retained this column,False
+ST4000DM000,failure,label,26,0,retained,source cleaning retained this column,False
+ST4000DM000,smart_1_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_4_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_5_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_7_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_9_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_12_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_183_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_184_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_187_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_188_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_189_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_190_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_192_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_193_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_194_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_197_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_198_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_199_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_240_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_241_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST4000DM000,smart_242_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,date,metadata,26,0,retained,source cleaning retained this column,False
+ST8000DM002,serial_number,metadata,26,0,retained,source cleaning retained this column,False
+ST8000DM002,model,metadata,26,0,retained,source cleaning retained this column,False
+ST8000DM002,capacity_bytes,metadata,26,0,retained,source cleaning retained this column,False
+ST8000DM002,failure,label,26,0,retained,source cleaning retained this column,False
+ST8000DM002,smart_1_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_4_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_5_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_7_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_9_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_12_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_184_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_187_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_188_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_190_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_191_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_192_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_193_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_194_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_195_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_197_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_198_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_199_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_240_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_241_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000DM002,smart_242_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,date,metadata,26,0,retained,source cleaning retained this column,False
+ST8000NM0055,serial_number,metadata,26,0,retained,source cleaning retained this column,False
+ST8000NM0055,model,metadata,26,0,retained,source cleaning retained this column,False
+ST8000NM0055,capacity_bytes,metadata,26,0,retained,source cleaning retained this column,False
+ST8000NM0055,failure,label,26,0,retained,source cleaning retained this column,False
+ST8000NM0055,smart_1_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_4_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_5_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_7_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_9_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_12_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_184_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_187_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_188_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_190_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_191_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_192_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_193_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_194_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_195_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_197_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_198_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_199_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_240_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_241_raw,SMART,26,0,retained,source cleaning retained this column,True
+ST8000NM0055,smart_242_raw,SMART,26,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,date,metadata,19,0,retained,source cleaning retained this column,False
+TOSHIBA MQ01ABF050,serial_number,metadata,19,0,retained,source cleaning retained this column,False
+TOSHIBA MQ01ABF050,model,metadata,19,0,retained,source cleaning retained this column,False
+TOSHIBA MQ01ABF050,capacity_bytes,metadata,19,0,retained,source cleaning retained this column,False
+TOSHIBA MQ01ABF050,failure,label,19,0,retained,source cleaning retained this column,False
+TOSHIBA MQ01ABF050,smart_3_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_4_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_5_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_9_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_12_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_191_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_192_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_193_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_194_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_196_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_197_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_199_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_222_raw,SMART,19,0,retained,source cleaning retained this column,True
+TOSHIBA MQ01ABF050,smart_226_raw,SMART,19,0,retained,source cleaning retained this column,True

@@ -1,0 +1,7 @@
+model,last10_rows,unique_drives,observations_per_drive_min,observations_per_drive_max,terminal_failure_drives,label_mismatches_vs_last_day,serials_missing_from_last_day,labels_changed,label_mismatches_after_generation
+HGST HMS5C4040BLE640,144513,14606,3,10,57,0,0,0,0
+ST12000NM0007,382305,38256,1,10,1134,10,0,10,0
+ST4000DM000,233596,23394,1,10,401,0,0,0,0
+ST8000DM002,99325,9936,2,10,122,0,0,0,0
+ST8000NM0055,146709,14679,1,10,221,0,0,0,0
+TOSHIBA MQ01ABF050,5335,534,5,10,78,1,0,1,0

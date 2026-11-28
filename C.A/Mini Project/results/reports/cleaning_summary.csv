@@ -1,0 +1,7 @@
+model,rows_before,columns_before,all_null_columns_removed,rows_with_missing_removed,rows_after_dropna,constant_columns_removed,columns_after_cleaning,final_SMART_features,processed_file
+HGST HMS5C4040BLE640,144513,21,[],0,144513,[],21,16,data/processed/HGST HMS5C4040BLE640.csv
+ST12000NM0007,382305,24,[],0,382305,[],24,19,data/processed/ST12000NM0007.csv
+ST4000DM000,233596,26,[],0,233596,[],26,21,data/processed/ST4000DM000.csv
+ST8000DM002,99325,26,[],0,99325,[],26,21,data/processed/ST8000DM002.csv
+ST8000NM0055,146709,26,[],0,146709,[],26,21,data/processed/ST8000NM0055.csv
+TOSHIBA MQ01ABF050,5335,19,[],0,5335,[],19,14,data/processed/TOSHIBA MQ01ABF050.csv

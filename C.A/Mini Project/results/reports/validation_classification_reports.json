@@ -1,0 +1,137 @@
+{
+  "ST12000NM0007::xgboost": {
+    "0": {
+      "precision": 0.9997517412592235,
+      "recall": 0.9767557807362691,
+      "f1-score": 0.9881199860956807,
+      "support": 74212.0
+    },
+    "1": {
+      "precision": 0.5640636846095527,
+      "recall": 0.992,
+      "f1-score": 0.7191880135331078,
+      "support": 2250.0
+    },
+    "accuracy": 0.9772043629515315,
+    "macro avg": {
+      "precision": 0.7819077129343881,
+      "recall": 0.9843778903681346,
+      "f1-score": 0.8536539998143943,
+      "support": 76462.0
+    },
+    "weighted avg": {
+      "precision": 0.9869310181881323,
+      "recall": 0.9772043629515315,
+      "f1-score": 0.9802062912110874,
+      "support": 76462.0
+    }
+  },
+  "ST4000DM000::xgboost": {
+    "0": {
+      "precision": 1.0,
+      "recall": 0.9896355005879023,
+      "f1-score": 0.9947907546839433,
+      "support": 45926.0
+    },
+    "1": {
+      "precision": 0.6251968503937008,
+      "recall": 1.0,
+      "f1-score": 0.7693798449612403,
+      "support": 794.0
+    },
+    "accuracy": 0.9898116438356165,
+    "macro avg": {
+      "precision": 0.8125984251968503,
+      "recall": 0.9948177502939511,
+      "f1-score": 0.8820852998225919,
+      "support": 46720.0
+    },
+    "weighted avg": {
+      "precision": 0.9936302718153381,
+      "recall": 0.9898116438356165,
+      "f1-score": 0.9909599271514127,
+      "support": 46720.0
+    }
+  },
+  "ST8000DM002::xgboost": {
+    "0": {
+      "precision": 1.0,
+      "recall": 0.9998471493350997,
+      "f1-score": 0.999923568826272,
+      "support": 19627.0
+    },
+    "1": {
+      "precision": 0.987603305785124,
+      "recall": 1.0,
+      "f1-score": 0.9937629937629938,
+      "support": 239.0
+    },
+    "accuracy": 0.9998489882210813,
+    "macro avg": {
+      "precision": 0.993801652892562,
+      "recall": 0.9999235746675499,
+      "f1-score": 0.9968432812946328,
+      "support": 19866.0
+    },
+    "weighted avg": {
+      "precision": 0.9998508602679272,
+      "recall": 0.9998489882210813,
+      "f1-score": 0.9998494533807811,
+      "support": 19866.0
+    }
+  },
+  "ST8000NM0055::xgboost": {
+    "0": {
+      "precision": 1.0,
+      "recall": 0.9996194561682695,
+      "f1-score": 0.999809691873843,
+      "support": 28906.0
+    },
+    "1": {
+      "precision": 0.9753914988814317,
+      "recall": 1.0,
+      "f1-score": 0.9875424688561721,
+      "support": 436.0
+    },
+    "accuracy": 0.9996251107627292,
+    "macro avg": {
+      "precision": 0.9876957494407159,
+      "recall": 0.9998097280841347,
+      "f1-score": 0.9936760803650075,
+      "support": 29342.0
+    },
+    "weighted avg": {
+      "precision": 0.999634336224944,
+      "recall": 0.9996251107627292,
+      "f1-score": 0.9996274101876695,
+      "support": 29342.0
+    }
+  },
+  "TOSHIBA MQ01ABF050::xgboost": {
+    "0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 912.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 155.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1067.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1067.0
+    }
+  }
+}

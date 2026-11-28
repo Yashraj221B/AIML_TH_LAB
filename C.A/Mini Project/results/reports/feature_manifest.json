@@ -1,0 +1,198 @@
+{
+  "HGST HMS5C4040BLE640": {
+    "source_file": "HGST HMS5C4040BLE640_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_1_raw",
+      "smart_2_raw",
+      "smart_3_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_7_raw",
+      "smart_8_raw",
+      "smart_9_raw",
+      "smart_10_raw",
+      "smart_12_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_196_raw",
+      "smart_197_raw",
+      "smart_199_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  },
+  "ST12000NM0007": {
+    "source_file": "ST12000NM0007_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_1_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_7_raw",
+      "smart_9_raw",
+      "smart_12_raw",
+      "smart_187_raw",
+      "smart_188_raw",
+      "smart_190_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_195_raw",
+      "smart_197_raw",
+      "smart_198_raw",
+      "smart_199_raw",
+      "smart_240_raw",
+      "smart_241_raw",
+      "smart_242_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  },
+  "ST4000DM000": {
+    "source_file": "ST4000DM000_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_1_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_7_raw",
+      "smart_9_raw",
+      "smart_12_raw",
+      "smart_183_raw",
+      "smart_184_raw",
+      "smart_187_raw",
+      "smart_188_raw",
+      "smart_189_raw",
+      "smart_190_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_197_raw",
+      "smart_198_raw",
+      "smart_199_raw",
+      "smart_240_raw",
+      "smart_241_raw",
+      "smart_242_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  },
+  "ST8000DM002": {
+    "source_file": "ST8000DM002_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_1_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_7_raw",
+      "smart_9_raw",
+      "smart_12_raw",
+      "smart_184_raw",
+      "smart_187_raw",
+      "smart_188_raw",
+      "smart_190_raw",
+      "smart_191_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_195_raw",
+      "smart_197_raw",
+      "smart_198_raw",
+      "smart_199_raw",
+      "smart_240_raw",
+      "smart_241_raw",
+      "smart_242_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  },
+  "ST8000NM0055": {
+    "source_file": "ST8000NM0055_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_1_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_7_raw",
+      "smart_9_raw",
+      "smart_12_raw",
+      "smart_184_raw",
+      "smart_187_raw",
+      "smart_188_raw",
+      "smart_190_raw",
+      "smart_191_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_195_raw",
+      "smart_197_raw",
+      "smart_198_raw",
+      "smart_199_raw",
+      "smart_240_raw",
+      "smart_241_raw",
+      "smart_242_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  },
+  "TOSHIBA MQ01ABF050": {
+    "source_file": "TOSHIBA MQ01ABF050_last_10_day_all_q_raw.csv",
+    "features": [
+      "smart_3_raw",
+      "smart_4_raw",
+      "smart_5_raw",
+      "smart_9_raw",
+      "smart_12_raw",
+      "smart_191_raw",
+      "smart_192_raw",
+      "smart_193_raw",
+      "smart_194_raw",
+      "smart_196_raw",
+      "smart_197_raw",
+      "smart_199_raw",
+      "smart_222_raw",
+      "smart_226_raw"
+    ],
+    "metadata_and_label_columns": [
+      "date",
+      "serial_number",
+      "model",
+      "capacity_bytes",
+      "failure"
+    ],
+    "all_null_columns_removed": [],
+    "constant_columns_removed": []
+  }
+}

@@ -1,0 +1,6 @@
+model,algorithm,dataset,accuracy,precision,recall,f1,roc_auc,average_precision,support,score_type
+ST12000NM0007,xgboost,validation,0.9772043629515315,0.5640636846095527,0.992,0.7191880135331078,0.9983337016475323,0.9598468655629243,76462,predict_proba positive-class probability
+ST4000DM000,xgboost,validation,0.9898116438356165,0.6251968503937008,1.0,0.7693798449612403,0.9997775141721251,0.9877877971727425,46720,predict_proba positive-class probability
+ST8000DM002,xgboost,validation,0.9998489882210813,0.987603305785124,1.0,0.9937629937629938,1.0,1.0,19866,predict_proba positive-class probability
+ST8000NM0055,xgboost,validation,0.9996251107627292,0.9753914988814317,1.0,0.9875424688561721,1.0,1.0,29342,predict_proba positive-class probability
+TOSHIBA MQ01ABF050,xgboost,validation,1.0,1.0,1.0,1.0,1.0,1.0,1067,predict_proba positive-class probability

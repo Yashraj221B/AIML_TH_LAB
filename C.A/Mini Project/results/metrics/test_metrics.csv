@@ -1,0 +1,12 @@
+model,algorithm,dataset,accuracy,precision,recall,f1,roc_auc,average_precision,support,score_type
+ST12000NM0007,random_forest,last-10-observations,0.9995553346760482,0.9851138353765324,1.0,0.992501102779003,1.0,1.0,76462,predict_proba positive-class probability
+ST12000NM0007,xgboost,last-10-observations,0.9574167560356779,0.4070240295748614,0.9786666666666667,0.574934725848564,0.9953965276654868,0.9075127387280799,76462,predict_proba positive-class probability
+ST4000DM000,random_forest,last-10-observations,0.9999357876712329,0.9962358845671268,1.0,0.9981143934632307,1.0,1.0,46720,predict_proba positive-class probability
+ST4000DM000,xgboost,last-10-observations,0.9762628424657535,0.41723594324750396,1.0,0.5888023730070449,0.9987205076702627,0.9305241165731665,46720,predict_proba positive-class probability
+ST8000DM002,random_forest,last-10-observations,1.0,1.0,1.0,1.0,1.0,1.0,19866,predict_proba positive-class probability
+ST8000DM002,xgboost,last-10-observations,0.9990435920668479,0.9263565891472868,1.0,0.9617706237424547,1.0,1.0,19866,predict_proba positive-class probability
+ST8000NM0055,random_forest,last-10-observations,1.0,1.0,1.0,1.0,1.0000000000000002,1.0,29342,predict_proba positive-class probability
+ST8000NM0055,xgboost,last-10-observations,0.999386544884466,0.960352422907489,1.0,0.9797752808988764,1.0,1.0,29342,predict_proba positive-class probability
+TOSHIBA MQ01ABF050,random_forest,last-10-observations,1.0,1.0,1.0,1.0,1.0,1.0,1067,predict_proba positive-class probability
+TOSHIBA MQ01ABF050,xgboost,last-10-observations,0.9981255857544518,0.9872611464968153,1.0,0.9935897435897436,1.0,1.0,1067,predict_proba positive-class probability
+ST12000NM0007,isolation_forest,last-day,0.8776790381599582,0.10567296996662959,0.4185022026431718,0.16873889875666073,0.7370213144662483,0.10772335643845127,7652,negative decision_function (higher means more anomalous)

@@ -1,0 +1,31 @@
+model,candidate_attribute,source_available,selected_for_correlation,status
+HGST HMS5C4040BLE640,smart_5_raw,True,True,selected for correlation
+HGST HMS5C4040BLE640,smart_187_raw,False,False,unavailable: absent from original schema
+HGST HMS5C4040BLE640,smart_188_raw,False,False,unavailable: absent from original schema
+HGST HMS5C4040BLE640,smart_197_raw,True,True,selected for correlation
+HGST HMS5C4040BLE640,smart_198_raw,False,False,unavailable: absent from original schema
+ST12000NM0007,smart_5_raw,True,True,selected for correlation
+ST12000NM0007,smart_187_raw,True,True,selected for correlation
+ST12000NM0007,smart_188_raw,True,True,selected for correlation
+ST12000NM0007,smart_197_raw,True,True,selected for correlation
+ST12000NM0007,smart_198_raw,True,True,selected for correlation
+ST4000DM000,smart_5_raw,True,True,selected for correlation
+ST4000DM000,smart_187_raw,True,True,selected for correlation
+ST4000DM000,smart_188_raw,True,True,selected for correlation
+ST4000DM000,smart_197_raw,True,True,selected for correlation
+ST4000DM000,smart_198_raw,True,True,selected for correlation
+ST8000DM002,smart_5_raw,True,True,selected for correlation
+ST8000DM002,smart_187_raw,True,True,selected for correlation
+ST8000DM002,smart_188_raw,True,True,selected for correlation
+ST8000DM002,smart_197_raw,True,True,selected for correlation
+ST8000DM002,smart_198_raw,True,True,selected for correlation
+ST8000NM0055,smart_5_raw,True,True,selected for correlation
+ST8000NM0055,smart_187_raw,True,True,selected for correlation
+ST8000NM0055,smart_188_raw,True,True,selected for correlation
+ST8000NM0055,smart_197_raw,True,True,selected for correlation
+ST8000NM0055,smart_198_raw,True,True,selected for correlation
+TOSHIBA MQ01ABF050,smart_5_raw,True,True,selected for correlation
+TOSHIBA MQ01ABF050,smart_187_raw,False,False,unavailable: absent from original schema
+TOSHIBA MQ01ABF050,smart_188_raw,False,False,unavailable: absent from original schema
+TOSHIBA MQ01ABF050,smart_197_raw,True,True,selected for correlation
+TOSHIBA MQ01ABF050,smart_198_raw,False,False,unavailable: absent from original schema
